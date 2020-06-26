@@ -1,0 +1,12 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+by.course.framework.test-output/
+
+# Idea
+.idea/
+*.iml
+*.ipr
+*.iws
