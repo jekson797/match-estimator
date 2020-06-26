@@ -3,7 +3,6 @@
 *.war
 *.ear
 target/
-by.course.framework.test-output/
 
 # Idea
 .idea/
